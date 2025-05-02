@@ -34,7 +34,7 @@ El proyecto busca agrupar a los clientes en distintos segmentos en función de s
 **Dt_Customer-**	Fecha de registro del cliente  
 **Recency-**	Días desde la última compra  
 **Complain-**	Quejas en los últimos 2 años (1: sí, 0: no)  
-**MntWine-**s	Gasto en vinos  
+**MntWines-**	Gasto en vinos  
 **MntFruits-**	Gasto en frutas  
 **MntMeatProducts-**	Gasto en carne  
 **MntFishProducts-**	Gasto en pescados  
