@@ -88,3 +88,4 @@ Mayor número de hijos, tiempo largo sin comprar (posible churn).
 #### Consideraciones Finales
 Este análisis proporciona información valiosa para apoyar a los equipos de marketing en la toma de decisiones estratégicas. La segmentación obtenida puede guiar campañas personalizadas, aumentar la retención de clientes y mejorar la rentabilidad del negocio.
 
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
