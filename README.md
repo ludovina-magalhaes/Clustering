@@ -1,8 +1,8 @@
 ### Proyecto de Clusterización de Clientes
-##### Sobre el Proyecto
+#### Sobre el Proyecto
 Este proyecto simula un problema de negocio ficticio utilizando datos públicos del Kaggle. El objetivo principal es segmentar clientes a través de sus patrones de comportamiento y personalidad, utilizando técnicas de análisis de datos y machine learning no supervisado.
 
-##### Herramientas y Métodos Utilizados
+#### Herramientas y Métodos Utilizados
 **Lenguaje:** Python  
 **Principales bibliotecas:** Pandas, Matplotlib, Seaborn, Scikit-learn  
 **Entornos:** Jupyter Notebook (para desarrollo), VSCode (para documentación)  
@@ -13,15 +13,15 @@ Este proyecto simula un problema de negocio ficticio utilizando datos públicos 
 - Método del Codo (Elbow Method)
 - Algoritmo de clustering K-Means
 
-##### Problema de Negocio
+#### Problema de Negocio
 Una nueva tienda enfrenta dificultades para segmentar a sus clientes según sus características personales, lo que complica el desarrollo de campañas de marketing eficaces y personalizadas.
 
 La empresa desea identificar patrones de comportamiento y preferencias con el fin de crear segmentos de mercado más precisos y efectivos.
 
-##### Enfoque Estratégico
+#### Enfoque Estratégico
 El proyecto busca agrupar a los clientes en distintos segmentos en función de su comportamiento y estilo de vida. A través de algoritmos de clusterización, se obtienen grupos que permiten desarrollar estrategias de marketing personalizadas, orientadas a las necesidades y preferencias de cada segmento.
 
-##### Descripción de los Datos
+#### Descripción de los Datos
 **Columna	Descripción**
 **ID-** Identificador del cliente
 **Year_Birth-** Año de nacimiento del cliente
@@ -47,7 +47,7 @@ El proyecto busca agrupar a los clientes en distintos segmentos en función de s
 **NumWebPurchases-**	Compras por el sitio web
 **NumWebVisitsMonth-**	Visitas al sitio web en el último mes
 
-#####Etapas del Proyecto
+#### Etapas del Proyecto
 - Tratamiento y análisis de los datos: Se realizó limpieza, transformación e ingeniería de características. Se derivaron columnas como TotalAmountSpent (gasto total) y TotalPurchases (número total de compras).
 - Asignación de pesos a variables importantes.
 - Selección del número óptimo de clústeres utilizando el método del codo (Elbow).
@@ -55,7 +55,7 @@ El proyecto busca agrupar a los clientes en distintos segmentos en función de s
 
 (Próximamente): Aplicación de silhouette_score para mejorar la evaluación de los clusters.
 
-##### Segmentación Final
+#### Segmentación Final
 Se identificaron 4 clusters con los siguientes perfiles:
 
 **Cluster 0**
@@ -84,6 +84,6 @@ Alta respuesta a promociones.
 Baja renta, muchas visitas web.
 Mayor número de hijos, tiempo largo sin comprar (posible churn).
 
-##### Consideraciones Finales
+#### Consideraciones Finales
 Este análisis proporciona información valiosa para apoyar a los equipos de marketing en la toma de decisiones estratégicas. La segmentación obtenida puede guiar campañas personalizadas, aumentar la retención de clientes y mejorar la rentabilidad del negocio.
 
