@@ -6,8 +6,9 @@ Este proyecto simula un problema de negocio ficticio utilizando datos públicos 
 **Lenguaje:** Python  
 **Principales bibliotecas:** Pandas, Matplotlib, Seaborn, Scikit-learn  
 **Entornos:** Jupyter Notebook (para desarrollo), VSCode (para documentación)  
-**Control de versiones:** Git y GitHub  
-**Metodologías aplicadas:**  
+**Control de versiones:** Git y GitHub 
+
+**Metodologías aplicadas:**
 - Análisis exploratorio de datos (EDA)
 - Ingeniería de características (Feature Engineering)
 - Método del Codo (Elbow Method)
