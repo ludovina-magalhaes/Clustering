@@ -3,18 +3,18 @@
 Este proyecto simula un problema de negocio ficticio utilizando datos públicos del Kaggle. El objetivo principal es segmentar clientes a través de sus patrones de comportamiento y personalidad, utilizando técnicas de análisis de datos y machine learning no supervisado.
 
 ##### Herramientas y Métodos Utilizados
-**Lenguaje:** Python
-**Principales bibliotecas:** Pandas, Matplotlib, Seaborn, Scikit-learn
-**Entornos:** Jupyter Notebook (para desarrollo), VSCode (para documentación)
-**Control de versiones:** Git y GitHub
-**Metodologías aplicadas:**
+**Lenguaje:** Python  
+**Principales bibliotecas:** Pandas, Matplotlib, Seaborn, Scikit-learn  
+**Entornos:** Jupyter Notebook (para desarrollo), VSCode (para documentación)  
+**Control de versiones:** Git y GitHub  
+**Metodologías aplicadas:**  
 - Análisis exploratorio de datos (EDA)
 - Ingeniería de características (Feature Engineering)
 - Método del Codo (Elbow Method)
 - Algoritmo de clustering K-Means
 
 ##### Problema de Negocio
-Una nueva tienda departamental del grupo Walmart enfrenta dificultades para segmentar a sus clientes según sus características personales, lo que complica el desarrollo de campañas de marketing eficaces y personalizadas.
+Una nueva tienda enfrenta dificultades para segmentar a sus clientes según sus características personales, lo que complica el desarrollo de campañas de marketing eficaces y personalizadas.
 
 La empresa desea identificar patrones de comportamiento y preferencias con el fin de crear segmentos de mercado más precisos y efectivos.
 
