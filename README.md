@@ -22,31 +22,31 @@ La empresa desea identificar patrones de comportamiento y preferencias con el fi
 #### Enfoque Estratégico
 El proyecto busca agrupar a los clientes en distintos segmentos en función de su comportamiento y estilo de vida. A través de algoritmos de clusterización, se obtienen grupos que permiten desarrollar estrategias de marketing personalizadas, orientadas a las necesidades y preferencias de cada segmento.
 
-#### Descripción de los Datos
-**Columna	Descripción**
-**ID-** Identificador del cliente
-**Year_Birth-** Año de nacimiento del cliente
-**Education-** Nivel educativo
-**Marital_Status-**	Estado civil
-**Income-**	Ingreso anual del hogar
-**Kidhome-**	Número de niños en el hogar
-**Teenhome-**	Número de adolescentes en el hogar
-**Dt_Customer-**	Fecha de registro del cliente
-**Recency-**	Días desde la última compra
-**Complain-**	Quejas en los últimos 2 años (1: sí, 0: no)
-**MntWine-**s	Gasto en vinos
-**MntFruits-**	Gasto en frutas
-**MntMeatProducts-**	Gasto en carne
-**MntFishProducts-**	Gasto en pescados
-**MntSweetProducts-**	Gasto en dulces
-**MntGoldProds-**	Gasto en productos de lujo
-**AcceptedCmp1 a Cmp5-**	Respuestas a campañas promocionales
-**Response-**	Respuesta a la última campaña
-**NumDealsPurchases-**	Compras con descuento
-**NumCatalogPurchases-**	Compras por catálogo
-**NumStorePurchases-**	Compras en tienda física
-**NumWebPurchases-**	Compras por el sitio web
-**NumWebVisitsMonth-**	Visitas al sitio web en el último mes
+#### Descripción de los Datos  
+**Columna	Descripción**  
+**ID-** Identificador del cliente  
+**Year_Birth-** Año de nacimiento del cliente  
+**Education-** Nivel educativo  
+**Marital_Status-**	Estado civil  
+**Income-**	Ingreso anual del hogar  
+**Kidhome-**	Número de niños en el hogar  
+**Teenhome-**	Número de adolescentes en el hogar  
+**Dt_Customer-**	Fecha de registro del cliente  
+**Recency-**	Días desde la última compra  
+**Complain-**	Quejas en los últimos 2 años (1: sí, 0: no)  
+**MntWine-**s	Gasto en vinos  
+**MntFruits-**	Gasto en frutas  
+**MntMeatProducts-**	Gasto en carne  
+**MntFishProducts-**	Gasto en pescados  
+**MntSweetProducts-**	Gasto en dulces  
+**MntGoldProds-**	Gasto en productos de lujo  
+**AcceptedCmp1 a Cmp5-**	Respuestas a campañas promocionales  
+**Response-**	Respuesta a la última campaña  
+**NumDealsPurchases-**	Compras con descuento  
+**NumCatalogPurchases-**	Compras por catálogo  
+**NumStorePurchases-**	Compras en tienda física  
+**NumWebPurchases-**	Compras por el sitio web  
+**NumWebVisitsMonth-**	Visitas al sitio web en el último mes  
 
 #### Etapas del Proyecto
 - Tratamiento y análisis de los datos: Se realizó limpieza, transformación e ingeniería de características. Se derivaron columnas como TotalAmountSpent (gasto total) y TotalPurchases (número total de compras).
